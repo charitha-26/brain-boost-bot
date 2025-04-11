@@ -4,6 +4,10 @@ Brain Boost Bot is a no-code AI-powered study assistant built using **[Botpress]
 
 ---
 
+[🚀 Try it on Telegram](https://t.me/brainyyboostbot)
+
+---
+
 ## 🎯 Scope
 
 - Generate concise and detailed study notes on any topic.
