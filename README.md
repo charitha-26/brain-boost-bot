@@ -58,10 +58,6 @@ Brain Boost Bot is a no-code AI-powered study assistant built using **[Botpress]
 
 ---
 
-## 📂 Project Files
-- `/media` – Screenshots  and video of how the bot works.
----
-
 
 
 > 🎓 This project is ideal for students seeking a smarter way to study with the help of AI. It also serves as a great resume project demonstrating practical no-code skills and educational innovation.
